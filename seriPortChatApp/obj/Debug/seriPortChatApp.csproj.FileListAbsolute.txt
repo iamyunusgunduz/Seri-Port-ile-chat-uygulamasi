@@ -1,0 +1,10 @@
+C:\Users\yns3g\source\repos\seriPortChatApp\bin\Debug\seriPortChatApp.exe.config
+C:\Users\yns3g\source\repos\seriPortChatApp\bin\Debug\seriPortChatApp.exe
+C:\Users\yns3g\source\repos\seriPortChatApp\bin\Debug\seriPortChatApp.pdb
+C:\Users\yns3g\source\repos\seriPortChatApp\obj\Debug\seriPortChatApp.csprojAssemblyReference.cache
+C:\Users\yns3g\source\repos\seriPortChatApp\obj\Debug\seriPortChatApp.Form1.resources
+C:\Users\yns3g\source\repos\seriPortChatApp\obj\Debug\seriPortChatApp.Properties.Resources.resources
+C:\Users\yns3g\source\repos\seriPortChatApp\obj\Debug\seriPortChatApp.csproj.GenerateResource.cache
+C:\Users\yns3g\source\repos\seriPortChatApp\obj\Debug\seriPortChatApp.csproj.CoreCompileInputs.cache
+C:\Users\yns3g\source\repos\seriPortChatApp\obj\Debug\seriPortChatApp.exe
+C:\Users\yns3g\source\repos\seriPortChatApp\obj\Debug\seriPortChatApp.pdb
